@@ -1,1 +1,2 @@
 # -Multiclient-and-Multi-Group-Chat-Application-
+Multi-client and Multi-Group Chat Application has a centralized chat server and each client can join into some offered group according to group capacity, after joining they can send message into the group they have joined. Four class are there to run the application first run the server then run the client server return GUI class to start a new client.
